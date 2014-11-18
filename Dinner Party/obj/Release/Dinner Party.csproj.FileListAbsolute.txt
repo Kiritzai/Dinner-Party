@@ -1,0 +1,8 @@
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\bin\Release\Dinner Party.exe.config
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\bin\Release\Dinner Party.exe
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\bin\Release\Dinner Party.pdb
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\obj\Release\Dinner_Party.Form1.resources
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\obj\Release\Dinner_Party.Properties.Resources.resources
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\obj\Release\Dinner Party.csproj.GenerateResource.Cache
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\obj\Release\Dinner Party.exe
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\obj\Release\Dinner Party.pdb

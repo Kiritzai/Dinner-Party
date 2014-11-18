@@ -1,0 +1,9 @@
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\bin\Debug\Dinner Party.exe.config
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\bin\Debug\Dinner Party.exe
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\bin\Debug\Dinner Party.pdb
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\obj\Debug\Dinner Party.csprojResolveAssemblyReference.cache
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\obj\Debug\Dinner_Party.Form1.resources
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\obj\Debug\Dinner_Party.Properties.Resources.resources
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\obj\Debug\Dinner Party.csproj.GenerateResource.Cache
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\obj\Debug\Dinner Party.exe
+c:\users\remy\documents\visual studio 2013\Projects\Dinner Party\Dinner Party\obj\Debug\Dinner Party.pdb
